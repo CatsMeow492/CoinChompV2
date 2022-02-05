@@ -1,0 +1,15 @@
+35:00
+
+npx create next-app@latest CoinChomp
+mkdir studio &&n cd studio
+sanity init
+yarn add sanity/client
+yarn add @sanity/image-url
+
+if you're looking to steal 
+
+
+THIRDWEB.COM
+sanity.io
+
+yarn add @3rdweb/react @3rdweb/hooks @3rdweb/sdk
