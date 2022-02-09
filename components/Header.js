@@ -4,6 +4,7 @@ import styled from 'styled-components'
 function Header({walletAddress}) {
   return (
     <Wrapper>
+        <Title>Assets</Title>
         <ButtonsContainer>
             <Button style={{ backgroundColor: '#3773f5', color: '#000'}}>
                 Buy / Sell
@@ -15,6 +16,12 @@ function Header({walletAddress}) {
 }
 
 export default Header
+
+const Title = styled.div`
+font-size: 2rem;
+font-weight: 600;
+flex: 1;
+`
 
 const Wrapper = styled.div`
 width: calc(100%-3rem);

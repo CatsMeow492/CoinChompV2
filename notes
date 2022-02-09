@@ -5,8 +5,11 @@ mkdir studio &&n cd studio
 sanity init
 yarn add sanity/client
 yarn add @sanity/image-url
+yarn add react-icons
 
 THIRDWEB.COM
 sanity.io
 
 yarn add @3rdweb/react @3rdweb/hooks @3rdweb/sdk
+
+rfce rafce
